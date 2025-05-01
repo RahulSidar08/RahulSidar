@@ -15,7 +15,7 @@ export const Navbar = () => {
   return (
     <header className="fixed top-0 left-0 w-full bg-white shadow-lg z-50 dark:bg-gray-950 dark:text-white">
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
-        <h1 className="text-2xl font-bold text-gray-800 pl-0 md:pl-[200px]  dark:text-white">
+        <h1 className="text-2xl font-bold text-gray-800 pl-0  dark:text-white">
           Rahul Sidar
         </h1>
 
