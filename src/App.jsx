@@ -1,0 +1,25 @@
+import React from 'react'
+import { useState } from 'react'
+import './App.css'
+import { Navbar } from './components/Navbar'
+import { About } from './components/About'
+import Skills from './components/Skills'
+import Contact from './components/Contact'
+import { HeroSection } from './components/Herosection'
+import { Project } from './components/Project'
+
+function App() {
+
+  return (
+    <>
+    <Navbar/>
+    <HeroSection/>
+    <About/>
+    <Skills/>
+    <Project/>
+    <Contact/>
+    </>
+  )
+}
+
+export default App
