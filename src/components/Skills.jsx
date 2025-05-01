@@ -42,7 +42,6 @@ const icons = [
   { icon: <FaBootstrap className="text-purple-600" />, name: "Bootstrap" },
   { icon: <RiTailwindCssFill className="text-sky-400" />, name: "Tailwind" },
   { icon: <SiMui className="text-blue-600" />, name: "Material UI" },
-  { icon: <SiMui className="text-blue-600" />, name: "Material UI" },
   { icon: <SiCplusplus className="text-white bg-blue-700" />, name: "C++" },
 
 
