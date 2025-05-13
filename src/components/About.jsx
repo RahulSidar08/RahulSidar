@@ -10,7 +10,7 @@ export const About = () => {
       <div className="flex justify-center sm:justify-start">
         <h2 className="group text-3xl mx-auto sm:text-4xl font-semibold mb-6 text-gray-900 dark:text-white inline-block relative cursor-pointer">
           About Me
-          <span className="absolute left-0 bottom-0 h-1 w-0 bg-blue-600 transition-all duration-300 group-hover:w-full"></span>
+          <span className="absolute left-0 bottom-0 h-1 w-0 bg-green-400 transition-all duration-300 group-hover:w-full"></span>
         </h2>
       </div>
 
