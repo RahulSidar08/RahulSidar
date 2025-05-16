@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <>
       <div className="w-full bg-white dark:bg-gray-900">
-        <section id="contact" className="px-24 max-w-7xl mx-auto py-16">
+        <section id="contact" className="px-16 max-w-7xl mx-auto py-16">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             {/* Left: About Me */}
             <motion.div

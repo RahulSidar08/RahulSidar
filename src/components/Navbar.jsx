@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { HiMenu, HiX } from "react-icons/hi";
-import { Darkmode } from "./Darkmode";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -21,9 +20,6 @@ export const Navbar = () => {
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-12 text-lg">
-          <div className="flex justify-center items-center p-">
-            <Darkmode />
-          </div>
           <Link
             to="/"
             onClick={() => {

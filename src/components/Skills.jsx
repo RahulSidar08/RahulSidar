@@ -50,7 +50,7 @@ const icons = [
 const Skills = () => {
   return (
     <section className="bg-white dark:bg-gray-900 py-20 p-8" id="skills">
-      <div className="max-w-6xl mx-auto text-center">
+      <div className="max-w-7xl mx-auto text-center">
         <div className="text-center relative inline-block group my-10">
           <h2 className="text-4xl font-bold mb-2 text-gray-900 dark:text-white">
             Tech Stacks
